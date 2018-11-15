@@ -3,6 +3,8 @@
 A simple little wrapper around XMLHttpRequest to promisify getting and sending
 data.
 
+Build solely as an excuse to get started learning how to create and resolve promises
+
 ## Install
 
 Eventually I'll work out how to publish my stuff to npm to make it as simple as
