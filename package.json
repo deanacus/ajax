@@ -1,0 +1,24 @@
+{
+  "name": "@deanacus/ajax",
+  "version": "1.0.0",
+  "description": "A simple promise based wrapper for XHR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanacus/ajax.git"
+  },
+  "keywords": [
+    "ajax",
+    "xhr",
+    "promise"
+  ],
+  "author": "Dean Harris <dean@harris.tc>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanacus/ajax/issues"
+  },
+  "homepage": "https://github.com/deanacus/ajax#readme"
+}

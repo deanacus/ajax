@@ -7,15 +7,13 @@ Build solely as an excuse to get started learning how to create and resolve prom
 
 ## Install
 
-Eventually I'll work out how to publish my stuff to npm to make it as simple as
-`npm install --save @deanacus/ajax` but for the time being, it should be as simple
-as `curl -o /output/path/filename.js https://raw.githubusercontent.com/deanacus/ajax/ajax.js`
+Use npm `npm install --save @deanacus/ajax`
 
 ## Usage
 
 Import the library into your file:
 
-`import 'ajax'`
+`import '@deanacus/ajax'`
 
 Then, depending on if you want to get data, or send data, use the appropriate interface.
 
